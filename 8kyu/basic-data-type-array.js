@@ -10,8 +10,8 @@
 // In the end, click "Submit" to submit your code pass this kata.
 
 //Solution
-//P: a string. The name of a developer
-//R: a number. the number of light sabers a programmer has. Zach has 18 and everyone else has none
+//P: an array
+//R: complete each function. return the length, the first element of the array, the last element of the array, the array with an element pushed to it and an array with an element popped
 
 function getLength(arr){
   //use the length method
